@@ -87,12 +87,6 @@ Você pode trocar para outro modelo compatível (por exemplo, `gemini-2.1`), mas
 
 ---
 
-## 📦 Estrutura de arquivos
-
-- `index.html` — código principal da aplicação
-
----
-
 ## 📜 Licença
 
 Use à vontade! Este projeto é livre para estudo e experimentação.
