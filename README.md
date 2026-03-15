@@ -2,9 +2,9 @@
 
 Uma *demo* web que transforma qualquer vídeo em um **clipe viral** usando:
 
-- **Cloudinary** para upload/armazenamento e transcrição automática (via upload preset)
-- **Gemini (Google Generative AI)** para analisar a transcrição e sugerir o momento mais viral
-- **Tailwind CSS + GSAP** para animação e UI fluida
+- **Cloudinary** para upload/armazenamento e transcrição automática (via upload preset).
+- **Gemini (Google Generative AI)** para analisar a transcrição e sugerir o momento mais viral.
+- **Tailwind CSS + GSAP** para animação e UI fluida.
 
 ---
 
@@ -19,17 +19,17 @@ Uma *demo* web que transforma qualquer vídeo em um **clipe viral** usando:
 
 ## ✅ Recursos
 
-- Upload de vídeo (Cloudinary Upload Widget)
-- Transcrição automática do vídeo
-- Geração automática de trecho viral usando Gemini (IA)
-- Player embutido com animações suaves
+- Upload de vídeo (Cloudinary Upload Widget).
+- Transcrição automática do vídeo.
+- Geração automática de trecho viral usando Gemini (IA).
+- Player embutido com animações suaves.
 
 ---
 
 ## 🧩 Pré-requisitos
 
-1. **Chave de API do Gemini (Google Generative AI)**
-2. Conta no **Cloudinary** com um **upload preset** configurado
+1. **Chave de API do Gemini (Google Generative AI)**.
+2. Conta no **Cloudinary** com um **upload preset** configurado.
 
 > Esta demo usa um `cloudName` e `uploadPreset` codificados no `index.html`.
 
