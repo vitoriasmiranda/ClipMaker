@@ -2,9 +2,9 @@
 
 Uma *demo* web que transforma qualquer vídeo em um **clipe viral** usando:
 
-- **Cloudinary** para upload/armazenamento e transcrição automática (via upload preset)
-- **Gemini (Google Generative AI)** para analisar a transcrição e sugerir o momento mais viral
-- **Tailwind CSS + GSAP** para animação e UI fluida
+- **Cloudinary** para upload/armazenamento e transcrição automática (via upload preset).
+- **Gemini (Google Generative AI)** para analisar a transcrição e sugerir o momento mais viral.
+- **Tailwind CSS + GSAP** para animação e UI fluida.
 
 ---
 
