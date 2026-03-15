@@ -19,10 +19,10 @@ Uma *demo* web que transforma qualquer vídeo em um **clipe viral** usando:
 
 ## ✅ Recursos
 
-- Upload de vídeo (Cloudinary Upload Widget)
-- Transcrição automática do vídeo
-- Geração automática de trecho viral usando Gemini (IA)
-- Player embutido com animações suaves
+- Upload de vídeo (Cloudinary Upload Widget).
+- Transcrição automática do vídeo.
+- Geração automática de trecho viral usando Gemini (IA).
+- Player embutido com animações suaves.
 
 ---
 
