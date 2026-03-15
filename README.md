@@ -28,8 +28,8 @@ Uma *demo* web que transforma qualquer vídeo em um **clipe viral** usando:
 
 ## 🧩 Pré-requisitos
 
-1. **Chave de API do Gemini (Google Generative AI)**
-2. Conta no **Cloudinary** com um **upload preset** configurado
+1. **Chave de API do Gemini (Google Generative AI)**.
+2. Conta no **Cloudinary** com um **upload preset** configurado.
 
 > Esta demo usa um `cloudName` e `uploadPreset` codificados no `index.html`.
 
